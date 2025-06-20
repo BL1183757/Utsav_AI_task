@@ -1,0 +1,301 @@
+Guest_ID,Timestamp,Emotion,Activity
+G039,22:45,Sad,Live Band
+G008,23:00,Happy,Live Band
+G023,20:30,Neutral,Speech
+G036,19:45,Bored,Game Activity
+G002,20:45,Excited,Snacks Served
+G021,18:00,Neutral,Game Activity
+G044,22:00,Neutral,Snacks Served
+G028,21:45,Happy,Game Activity
+G047,22:30,Neutral,Dance Floor Open
+G003,19:00,Bored,Speech
+G009,19:30,Happy,Welcome Speech
+G014,22:15,Neutral,Snacks Served
+G002,22:45,Happy,Dance Floor Open
+G007,20:45,Neutral,Live Band
+G014,22:00,Happy,Dance Floor Open
+G002,19:15,Happy,Dance Floor Open
+G029,22:15,Excited,Snacks Served
+G010,18:45,Bored,Game Activity
+G023,19:45,Excited,Speech
+G018,21:30,Excited,Snacks Served
+G025,21:00,Happy,Speech
+G001,19:30,Neutral,Welcome Speech
+G044,19:45,Happy,Live Band
+G017,19:45,Bored,Welcome Speech
+G005,20:15,Neutral,Welcome Speech
+G028,19:30,Excited,Dance Floor Open
+G034,18:00,Happy,Game Activity
+G024,19:00,Bored,Game Activity
+G027,18:30,Neutral,Speech
+G047,21:15,Excited,Speech
+G026,21:15,Neutral,Welcome Speech
+G015,21:30,Happy,Dance Floor Open
+G013,22:30,Happy,Welcome Speech
+G032,18:45,Excited,Speech
+G015,20:30,Happy,Speech
+G032,19:30,Happy,Game Activity
+G028,18:15,Bored,Game Activity
+G006,20:45,Happy,Game Activity
+G011,19:30,Excited,Welcome Speech
+G027,22:45,Neutral,Live Band
+G039,19:15,Neutral,Welcome Speech
+G037,18:00,Happy,Dance Floor Open
+G024,21:30,Happy,Welcome Speech
+G049,22:00,Happy,Dance Floor Open
+G039,18:15,Bored,Speech
+G049,22:00,Happy,Snacks Served
+G002,19:00,Neutral,Welcome Speech
+G019,18:15,Neutral,Snacks Served
+G032,19:15,Happy,Dance Floor Open
+G011,22:00,Bored,Speech
+G034,19:15,Neutral,Welcome Speech
+G009,19:15,Bored,Live Band
+G020,18:45,Happy,Live Band
+G019,22:45,Bored,Dance Floor Open
+G041,18:00,Neutral,Snacks Served
+G040,18:00,Bored,Welcome Speech
+G025,22:15,Excited,Game Activity
+G042,18:30,Happy,Snacks Served
+G048,22:45,Neutral,Snacks Served
+G001,21:45,Sad,Speech
+G037,20:00,Happy,Live Band
+G048,21:45,Excited,Game Activity
+G033,22:45,Happy,Dance Floor Open
+G038,19:45,Bored,Live Band
+G048,18:30,Sad,Snacks Served
+G046,22:15,Neutral,Live Band
+G016,20:00,Happy,Dance Floor Open
+G033,21:15,Neutral,Dance Floor Open
+G008,19:30,Bored,Welcome Speech
+G048,20:45,Neutral,Game Activity
+G022,21:15,Bored,Game Activity
+G045,22:30,Excited,Live Band
+G027,18:15,Neutral,Welcome Speech
+G028,21:30,Neutral,Speech
+G048,22:30,Bored,Welcome Speech
+G017,20:45,Excited,Speech
+G046,23:00,Excited,Dance Floor Open
+G041,19:00,Excited,Welcome Speech
+G046,23:00,Bored,Dance Floor Open
+G033,22:45,Happy,Speech
+G032,18:00,Neutral,Snacks Served
+G025,20:15,Excited,Snacks Served
+G003,19:45,Happy,Snacks Served
+G032,21:30,Sad,Snacks Served
+G027,20:15,Excited,Welcome Speech
+G040,18:00,Happy,Game Activity
+G048,19:30,Happy,Snacks Served
+G035,22:15,Excited,Speech
+G007,18:45,Excited,Welcome Speech
+G008,21:15,Excited,Dance Floor Open
+G023,21:30,Neutral,Snacks Served
+G032,22:30,Neutral,Game Activity
+G022,22:00,Happy,Game Activity
+G015,20:30,Happy,Welcome Speech
+G008,23:00,Happy,Dance Floor Open
+G005,19:30,Happy,Speech
+G032,22:45,Neutral,Live Band
+G040,22:45,Happy,Snacks Served
+G042,22:30,Excited,Live Band
+G028,19:00,Happy,Game Activity
+G023,20:00,Bored,Welcome Speech
+G001,21:30,Happy,Game Activity
+G048,19:45,Excited,Welcome Speech
+G016,19:30,Bored,Speech
+G022,18:30,Happy,Live Band
+G037,21:15,Happy,Welcome Speech
+G030,21:15,Sad,Speech
+G012,21:45,Happy,Speech
+G039,18:45,Happy,Game Activity
+G037,20:15,Excited,Dance Floor Open
+G034,22:45,Neutral,Snacks Served
+G019,18:00,Neutral,Speech
+G004,21:45,Happy,Snacks Served
+G049,22:45,Bored,Snacks Served
+G035,18:00,Neutral,Live Band
+G043,19:00,Bored,Welcome Speech
+G033,19:45,Excited,Dance Floor Open
+G029,21:00,Happy,Game Activity
+G002,22:30,Bored,Welcome Speech
+G026,19:45,Neutral,Snacks Served
+G026,18:15,Happy,Dance Floor Open
+G050,21:00,Excited,Dance Floor Open
+G025,23:00,Sad,Dance Floor Open
+G010,19:00,Excited,Live Band
+G049,18:30,Neutral,Snacks Served
+G049,19:30,Bored,Game Activity
+G032,19:00,Happy,Speech
+G023,18:30,Happy,Welcome Speech
+G049,22:45,Excited,Game Activity
+G013,22:30,Neutral,Dance Floor Open
+G041,22:30,Happy,Dance Floor Open
+G014,22:45,Bored,Speech
+G005,18:30,Bored,Dance Floor Open
+G021,18:45,Excited,Welcome Speech
+G039,21:00,Excited,Snacks Served
+G039,21:15,Neutral,Speech
+G035,20:30,Bored,Dance Floor Open
+G009,20:15,Excited,Welcome Speech
+G038,19:30,Neutral,Snacks Served
+G009,22:15,Excited,Snacks Served
+G005,19:00,Happy,Speech
+G001,22:45,Happy,Welcome Speech
+G045,18:45,Neutral,Dance Floor Open
+G031,22:30,Excited,Game Activity
+G039,20:15,Excited,Game Activity
+G003,21:00,Happy,Dance Floor Open
+G020,19:45,Happy,Welcome Speech
+G039,18:00,Bored,Dance Floor Open
+G049,18:00,Happy,Game Activity
+G044,21:00,Sad,Speech
+G047,23:00,Happy,Speech
+G011,19:00,Happy,Live Band
+G020,22:15,Happy,Welcome Speech
+G014,21:30,Neutral,Speech
+G003,21:45,Bored,Live Band
+G012,20:15,Sad,Game Activity
+G012,23:00,Happy,Dance Floor Open
+G036,19:45,Neutral,Snacks Served
+G028,19:00,Sad,Live Band
+G017,20:00,Neutral,Dance Floor Open
+G013,21:45,Happy,Game Activity
+G035,19:15,Excited,Speech
+G047,18:15,Happy,Game Activity
+G050,21:00,Happy,Welcome Speech
+G001,22:15,Sad,Welcome Speech
+G011,23:00,Bored,Welcome Speech
+G022,22:00,Excited,Snacks Served
+G041,18:30,Happy,Speech
+G048,19:15,Bored,Speech
+G031,19:00,Sad,Speech
+G023,19:00,Bored,Snacks Served
+G010,22:30,Happy,Game Activity
+G009,21:15,Happy,Speech
+G013,18:45,Happy,Welcome Speech
+G040,18:15,Neutral,Snacks Served
+G034,18:30,Neutral,Dance Floor Open
+G001,20:45,Bored,Game Activity
+G017,21:45,Neutral,Speech
+G021,21:15,Bored,Live Band
+G039,19:15,Bored,Snacks Served
+G038,22:15,Bored,Game Activity
+G015,22:30,Excited,Dance Floor Open
+G038,18:00,Excited,Dance Floor Open
+G030,20:15,Excited,Speech
+G029,18:45,Neutral,Welcome Speech
+G010,22:00,Happy,Speech
+G034,19:15,Neutral,Speech
+G043,20:30,Happy,Live Band
+G047,21:45,Happy,Game Activity
+G016,19:45,Happy,Dance Floor Open
+G025,18:30,Excited,Live Band
+G029,22:15,Bored,Live Band
+G019,23:00,Happy,Dance Floor Open
+G042,23:00,Neutral,Speech
+G041,20:45,Happy,Snacks Served
+G049,21:15,Neutral,Live Band
+G009,21:30,Bored,Game Activity
+G043,21:45,Happy,Snacks Served
+G036,18:00,Happy,Live Band
+G015,21:30,Neutral,Game Activity
+G014,21:15,Neutral,Speech
+G026,21:15,Happy,Live Band
+G007,18:30,Excited,Game Activity
+G043,21:30,Happy,Snacks Served
+G038,18:30,Neutral,Welcome Speech
+G037,20:15,Bored,Welcome Speech
+G039,20:45,Happy,Speech
+G020,18:45,Neutral,Welcome Speech
+G045,22:15,Happy,Game Activity
+G034,21:30,Bored,Welcome Speech
+G044,22:30,Neutral,Speech
+G006,22:45,Bored,Snacks Served
+G045,19:15,Bored,Welcome Speech
+G022,23:00,Happy,Dance Floor Open
+G030,20:30,Happy,Game Activity
+G031,20:00,Happy,Live Band
+G031,19:45,Bored,Game Activity
+G002,22:45,Sad,Dance Floor Open
+G015,19:15,Sad,Game Activity
+G038,22:30,Excited,Snacks Served
+G015,20:30,Bored,Live Band
+G045,20:45,Happy,Snacks Served
+G004,22:30,Happy,Dance Floor Open
+G049,20:45,Happy,Snacks Served
+G014,19:15,Bored,Live Band
+G036,21:00,Neutral,Welcome Speech
+G006,22:15,Neutral,Speech
+G023,20:15,Sad,Speech
+G040,18:15,Happy,Speech
+G009,22:00,Happy,Game Activity
+G035,22:00,Excited,Dance Floor Open
+G044,22:15,Happy,Live Band
+G009,18:15,Happy,Live Band
+G001,19:45,Bored,Dance Floor Open
+G029,19:45,Excited,Speech
+G014,18:30,Happy,Speech
+G019,21:15,Neutral,Dance Floor Open
+G025,21:00,Bored,Snacks Served
+G040,19:45,Neutral,Game Activity
+G032,22:30,Bored,Welcome Speech
+G023,21:30,Bored,Welcome Speech
+G033,21:30,Neutral,Game Activity
+G040,19:45,Bored,Live Band
+G006,19:15,Neutral,Live Band
+G008,20:15,Happy,Speech
+G033,22:45,Bored,Live Band
+G036,19:15,Excited,Speech
+G037,18:00,Happy,Game Activity
+G002,20:15,Neutral,Snacks Served
+G033,19:15,Neutral,Dance Floor Open
+G045,22:45,Neutral,Speech
+G008,19:00,Neutral,Dance Floor Open
+G012,21:00,Bored,Live Band
+G036,18:45,Bored,Live Band
+G005,22:45,Happy,Snacks Served
+G040,19:15,Happy,Snacks Served
+G046,20:30,Happy,Speech
+G040,22:15,Bored,Dance Floor Open
+G043,20:45,Happy,Dance Floor Open
+G005,19:00,Bored,Snacks Served
+G049,20:00,Neutral,Speech
+G014,19:45,Excited,Live Band
+G023,18:00,Happy,Speech
+G026,21:15,Happy,Welcome Speech
+G001,22:30,Bored,Speech
+G047,20:00,Bored,Snacks Served
+G026,20:00,Happy,Dance Floor Open
+G025,20:30,Excited,Snacks Served
+G027,18:15,Excited,Live Band
+G044,22:30,Happy,Welcome Speech
+G007,22:45,Neutral,Welcome Speech
+G049,20:30,Bored,Dance Floor Open
+G050,23:00,Neutral,Welcome Speech
+G020,20:00,Happy,Game Activity
+G022,19:45,Neutral,Welcome Speech
+G032,21:00,Neutral,Live Band
+G019,22:00,Happy,Game Activity
+G016,19:45,Bored,Welcome Speech
+G014,22:30,Neutral,Snacks Served
+G028,22:00,Neutral,Game Activity
+G004,18:00,Neutral,Live Band
+G032,20:15,Happy,Game Activity
+G034,18:00,Happy,Dance Floor Open
+G032,22:15,Excited,Welcome Speech
+G003,19:45,Happy,Speech
+G003,22:30,Bored,Snacks Served
+G035,21:15,Bored,Game Activity
+G043,21:45,Neutral,Speech
+G021,21:15,Happy,Snacks Served
+G007,20:15,Happy,Speech
+G019,21:45,Happy,Dance Floor Open
+G029,22:15,Excited,Speech
+G020,20:30,Happy,Snacks Served
+G003,20:45,Excited,Speech
+G038,20:00,Neutral,Dance Floor Open
+G035,22:45,Sad,Dance Floor Open
+G024,22:00,Excited,Live Band
+G046,22:00,Neutral,Welcome Speech
+G014,20:00,Neutral,Speech
+G025,19:30,Happy,Game Activity
